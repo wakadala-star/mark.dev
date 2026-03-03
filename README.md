@@ -1,5 +1,5 @@
 # 💫 About Me:
-Am mark, currently working on backend development<br>for both web and mobile applications. <br>I also have relevant knowledge and experience on<br>front end development too. Am currently based in<br>Uganda.  Probably looking forward to landing on a <br>tech related job. <br>
+Am Mark Wakadala, currently working on backend development<br>for both web and mobile applications. <br>I also have relevant knowledge and experience on<br>front end development too. Am currently based in<br>Uganda.  Probably looking forward to landing on a <br>tech related job. <br>
 
 
 ## 🌐 Socials:
